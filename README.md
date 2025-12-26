@@ -17,6 +17,8 @@ Com esse código, é possível:
 - Gerar gráficos prontos para relatórios, estudos ou apresentações
 
 - Exportar o gráfico automaticamente em PDF
+  
+
 
 Esse tipo de análise é muito comum em áreas como:
 
@@ -30,12 +32,13 @@ Relatórios acadêmicos
 
 Dashboards exploratórios
 
+
 🛠️ Tecnologias utilizadas
 
-Python
+- Python
 
-Pandas → leitura e manipulação dos dados
+- Pandas → leitura e manipulação dos dados
 
-Matplotlib → criação e personalização do gráfico
+- Matplotlib → criação e personalização do gráfico
 
-CSV → fonte dos dados
+- CSV → fonte dos dados
